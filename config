@@ -1,0 +1,12 @@
+[settings]
+search_query:#RetweetYGana
+# Leave empty for all languages
+tweet_language:
+
+# Create your app on http://apps.twitter.com
+[twitter]Gilberto_LF
+consumer_key:KMOoE6SdMVD9lv2Zr3n9Al4Em
+consumer_secret:TWFrRBNAPufimcIdeWwdTeH83duI90sbDbv9ziDqZydlZHGXs9
+access_token:4751676980-G94t4sNoXFdDpV8tGPEOw2dFDeSb0C1f2sjQGHG
+access_token_secret:P8DkvdMBlsmmpKQz2KfiCFzjEJ44jOdtva3I44bVVZVpT
+
